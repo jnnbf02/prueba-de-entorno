@@ -1,2 +1,0 @@
-nombre = "Jenn"
-apellido = "bf"
